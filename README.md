@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcakacz&label=Profile%20views&color=0e75b6&style=flat" alt="mcakacz" /> </p>
 ### Hey 👋, I'm Arek
 
 <a href="https://www.linkedin.com/in/mc-akacz-3b1212239/">
