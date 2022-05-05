@@ -27,7 +27,7 @@ Hi there, I'm **Arkadiusz Adamowski**, a **Starting Project Manager/ Code Develo
 - 🌱 I’m currently learning JavaScript and HTML languages; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Effective Learning, etc..;
 - 💼 I’m searching for young, determinated/communicative person which i could work with
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I'm happy to help;
 - 📫 Please email via gildianpk@gmail.com to reach me.
 - 📝 DM me on my [Discord](https://discord.gg/Jp45cG3BC8) to get more info.
 
