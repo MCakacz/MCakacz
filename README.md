@@ -23,7 +23,7 @@ Hi there, I'm **Arkadiusz Adamowski**, a **Starting Project Manager/ Code Develo
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
+- 👨🏽‍💻 I’m currently working on [OgCraft - Core](https://github.com/MCakacz/OgCraft) in [IntelliJ IDEA](https://www.jetbrains.com/idea/) projects;
 - 🌱 I’m currently learning JavaScript and HTML languages; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Effective Learning, etc..;
 - 💼 I’m searching for young, determinated/communicative person which i could work with
