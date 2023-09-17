@@ -17,11 +17,11 @@
 <br />
 <br />
 
-Hi there, I'm **Arkadiusz Adamowski**, a **Starting Project Manager/ Code Developer** ( Probably one of the youngest 🌍 ) and a ** Minecraft Website Designer** 🚀 from Poland.  Currently, I'm a CEO of 👑 [@ClanCraft.pl](http://clancraft.pl) minecraft server, CEO of 👑 [@Projektowo.xyz](https://projektowo.xyz), and a leader of NPK gaming team 💪. 
+Hi there, I'm **Arkadiusz Adamowski**, a **Starting Project Manager/ Code Developer** ( Probably one of the youngest 🌍 ) and a **Minecraft Website Designer** 🚀 from Poland.  Currently, I'm a CEO of 👑 [@ClanCraft.pl](http://clancraft.pl) minecraft server, CEO of 👑 [@Projektowo.xyz](https://projektowo.xyz), and a leader of NPK gaming team 💪. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on [OgCraft - Core](https://github.com/MCakacz/OgCraft) in [IntelliJ IDEA](https://www.jetbrains.com/idea/) projects;
 - 🌱 I’m currently learning JavaScript and HTML languages; 
