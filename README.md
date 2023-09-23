@@ -23,7 +23,7 @@ Hi there, I'm **Arkadiusz Adamowski**, a **Starting Project Manager/ Code Develo
 
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently working on [PingingTool](https://github.com/MCakacz/PingingTool-by-AK4CZ) in [IntelliJ IDEA](https://www.jetbrains.com/idea/) projects;
+- 👨🏽‍💻 I’m currently working on [PingingTool](https://github.com/MCakacz/PingingTool-by-AK4CZ) in [Visual Studio Code](https://code.visualstudio.com/docs) projects;
 - 🌱 I’m currently learning JavaScript and HTML languages; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Effective Learning, etc..;
 - 💼 I’m searching for young, determinated/communicative person which i could work with
