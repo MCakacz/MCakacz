@@ -23,7 +23,7 @@ Hi there, I'm **Arkadiusz Adamowski**, a **Starting Project Manager/ Code Develo
 
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I've just completed my work on [PingingTool](https://github.com/MCakacz/PingingTool-by-AK4CZ) in [Visual Studio Code](https://code.visualstudio.com/docs) projects, so now im looking for potential comissions;
+- 👨🏽‍💻 I've just completed my work on [PingingTool](https://github.com/MCakacz/PingingTool-by-AK4CZ) in [Visual Studio Code](https://code.visualstudio.com/docs), so now im looking for potential comissions;
 - 🌱 I’m currently learning JavaScript and HTML languages; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Effective Learning, etc..;
 - 💼 I’m searching for young, determinated/communicative person which i could work with
