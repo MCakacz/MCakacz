@@ -24,7 +24,7 @@ I'm **Arkadiusz “AK4CZ” Adamowski** — developer, builder and infra enjoyer
 Focused on creating tech that actually moves communities forward.
 
 **My ecosystem:**  
-**AK4CZ DEVELOPMENT • Projektowo.xyz • CerberAI • student międzynarodowy • filantrop • menadżer osobisty (adamowski.agency)**
+**AK4CZ DEVELOPMENT • Projektowo.xyz • CerberAI • student międzynarodowy • menadżer osobisty -> adamowski.agency**
 
 - 👑 Founder of **ClanCraft.pl**  
 - 🛠️ Creator of **CClicker** (C#), **CerberAI** (security framework)  
